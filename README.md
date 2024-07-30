@@ -1,5 +1,6 @@
 *WELCOME TO
 FURNITURE COMPANY MANAGEMENT SYSTEM*
+
 Furniture company management system is innovative system for your company
 
 *MAIN TABS*
